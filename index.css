@@ -21,7 +21,7 @@ opacity: 20%;
 }
 .header1{
   display: flex;
-  justify-content: right;
+  justify-content:left;
   font-family: "Courier New";
   font-size: 12px;
   top: 15px;
